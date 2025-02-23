@@ -1,4 +1,4 @@
-# RABHI7738-TicTacToe_GameInConsole
+# TicTacToe_GameInConsole
 Tic Tac Toe Game by C#(Console)
 
 *Overview*
