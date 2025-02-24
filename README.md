@@ -1,7 +1,7 @@
 #Tic Tac Toe game In Console Application Using C# 
 
 
-##Overview
+*Overview*
 
 This Tic Tac Toe game is programmed in C# and runs in the console.
  It adheres to Object-Oriented Programming (OOP) principles
